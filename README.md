@@ -21,18 +21,10 @@ https://junedbankapur.github.io/weather-app/
 - CSS3
 - JavaScript
 - OpenWeatherMap API
+## Project preview
 
-## Setup Instructions
-1. Clone the repository
-```
-git clone https://github.com/junedbankapur/weather-app.git
-```
 
-2. Get your API key from OpenWeatherMap
-- Sign up at https://openweathermap.org/api
-- Replace 'YOUR_API_KEY' in script.js with your actual API key
-
-3. Open index.html in your browser
+![Screenshot 2025-05-30 105137](https://github.com/user-attachments/assets/7b35db0b-237a-4d56-b75e-59fd81e6238e)
 
 ## Project Structure
 ```
